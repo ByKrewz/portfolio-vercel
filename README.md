@@ -3,10 +3,10 @@
 To install and launch the project, follow the instructions below :
 
 1- Clone or download the repo : <br>
- <a href="https://github.com/ByKrewz/portfolio-vercel/archive/refs/heads/main.zip">Download zip</a><br>
+ <a href="https://github.com/tom-tamen/portfolio-vercel/archive/refs/heads/main.zip">Download zip</a><br>
  Or<br>
  ```
- git clone https://github.com/ByKrewz/portfolio-vercel.git
+ git clone https://github.com/tom-tamen/portfolio-vercel.git
  ```
 2- Go to the directory<br>
  Unzip and open `portfolio-vercel`<br>
